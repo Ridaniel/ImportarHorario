@@ -1,2 +1,2 @@
 # ImportarHorario
-Aplicación en python para importar horario de upc a  horario de google 
+Importar horario desde la upc al google calendar
