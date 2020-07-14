@@ -1,0 +1,3 @@
+DRIVER_PATH='drivers/chromedriver.exe'
+LOGIN_ELEMENT_ID='ctl00_ContentPlaceHolder1_Login1_UserName'
+PASSWORD_ELEMENT_ID='ctl00_ContentPlaceHolder1_Login1_Password'
